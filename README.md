@@ -1,1 +1,1 @@
-# finstein-traiee-batch
+# finstein-trainee-batch
